@@ -1,0 +1,7 @@
+/node_modules/*
+/src/.vuepress/dist/*
+/src/.vuepress/.temp/*
+/src/.vuepress/.cache/*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
